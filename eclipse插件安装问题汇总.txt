@@ -1,5 +1,6 @@
 一、AmaterasUML插件安装问题
+  将AmaterasUML的三个文件放进eclipse安装目录下的plugins文件夹后，打开eclipse.
   选择 "File"->"New"->"Other"，看不见AmaterasUML选项，则执行下面的操作：
-  1将Eclipse安装目录下的/configuration/org.eclipse.update删除 
-  2以管理员身份运行命令行，打开Eclipse安装目录文件夹（使用命令“cd 文件夹路径”） 输入“eclipse -clean” 
-  3启动Eclipse，就能看到AmaterasUML的选项
+  1.将Eclipse安装目录下的/configuration/org.eclipse.update删除 
+  2.以管理员身份运行命令行，打开Eclipse安装目录文件夹（使用命令“cd 文件夹路径”） 输入“eclipse -clean” 
+  3.启动Eclipse，就能看到AmaterasUML的选项
